@@ -1,0 +1,20 @@
+{
+  "name": "LIRI-Node-App",
+  "version": "1.0.0",
+  "description": "An app that displays tweets and music in the command line!",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Exxodus-sama/LIRI-Node-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Exxodus-sama/LIRI-Node-App/issues"
+  },
+  "homepage": "https://github.com/Exxodus-sama/LIRI-Node-App#readme"
+}
