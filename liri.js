@@ -40,10 +40,10 @@ switch (command) {
 
     default: console.log(
         "\n" +"Try typing one of the following commands after 'node liri.js': " +"\n"+
-        "1. my-tweets" + "\n" +
-        "2. spotify-this-song 'any song name' " + "\n" +
-        "3. movie-this 'any movie name' " + "\n" +
-        "4. do-what-it-says." + "\n" +
+        "my-tweets" + "\n" +
+        "spotify-this-song 'any song name' " + "\n" +
+        "movie-this 'any movie name' " + "\n" +
+        "do-what-it-says." + "\n" +
         "Be sure to put the movie or song name in quotation marks if it's more than one word."
     );
 };                  
